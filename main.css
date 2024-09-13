@@ -36,12 +36,8 @@
   height: 100%;
 }
 
-.navigation {
-  background-color: #fcd34d;
-  width: 100%;
-  height: 60px;
-  color: #f3f4f6;
-  display: flex;
+#learn{
+  margin-left: 50px;
 }
 .email-text {
   color: #93c5fd;
@@ -94,7 +90,7 @@
 }
 
 .efficientcy .container {
-  padding: 100px 20px;
+  padding: 5px;
 }
 
 .analysis-img {
@@ -167,4 +163,10 @@ a h2 {
 
 .tel {
   color: #fcd34d;
+}
+#app pre {
+  white-space: pre-wrap;
+}
+.list-group-item{
+  justify-content: center;
 }
